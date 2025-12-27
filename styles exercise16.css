@@ -1,0 +1,13 @@
+.media-player  {
+    width: 500px;
+    display: flex;   
+}
+
+.control-button {
+    flex: 1;
+    padding: 5px;
+}
+
+#button2 {
+    flex: 2;
+}

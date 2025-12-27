@@ -1,0 +1,15 @@
+.fixed-footer {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(177, 25, 248);
+    color: bisque;
+    padding: 10px;
+}
+
+.fixed-footer a {
+    color: blanchedalmond;
+    text-decoration: none;
+}
+

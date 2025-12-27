@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: auto;
+
+    gap: 10px;
+    
+}
+.item {
+    background-color: blue;
+    padding: 10px;
+}

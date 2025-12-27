@@ -1,0 +1,37 @@
+#books {
+    background-color: rgb(119, 119, 233);
+    
+    width: 80vw;
+    height: 50vw;
+    margin: 5vh;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center; 
+    line-height: 30vw;   
+    
+}
+
+p {
+    font-size: 16px;
+    text-align: center;
+
+}
+
+#movies {
+    background-color: rgb(187, 184, 184);
+    width: 80vw;
+    height: 50vw;
+    margin: 5vh;
+    padding: 20px;
+}
+
+#foods {
+    background-color: rgb(59, 235, 59);
+    width: 80vw;
+    height: 50vw;
+    margin: 5vh;
+    padding: 20px;
+}

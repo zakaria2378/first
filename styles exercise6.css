@@ -1,0 +1,31 @@
+#box1 {
+    background-color: red;
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#box2 {
+    background-color: green;
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#box3 {
+    background-color: blue;
+    margin-bottom: 30px;
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
